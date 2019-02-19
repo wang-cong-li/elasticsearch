@@ -1,2 +1,8 @@
 # elasticsearch
 一些elasticsearch代码和学习心得
+
+## demo分支
+demo工程是一个最基本的elasticsearch程序，做了一个类似搜索附近的人的小功能
+其中难点主要是关于地理位置GeoPoint经纬度这个对象的处理
+elasticsearch版本必须是6.5.X或以上版本，不然可能会出现一些无法预知的错误
+
